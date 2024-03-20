@@ -16,7 +16,7 @@ import java.util.List;
 import static java.lang.Thread.sleep;
 
 public class CsvFileSaveToDB {
-    private final static String fliePath = "C:/java-sql/2021_seoul_bus_onoff.csv";
+    private final static String fliePath = "C:/java-sql/2021_seoul_bus_onoff..csv";
 
 
     public static void main(String[] args) {
