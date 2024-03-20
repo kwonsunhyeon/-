@@ -20,7 +20,7 @@ public class CsvFileSaveToDB {
 
 
     public static void main(String[] args) {
-        final String jdbcURL = "jdbc:mysql://localhost:3306/yscom";
+        final String jdbcURL = "jdbc:mysql://localhost:3306/yscom?characterEncoding=UTF-8";
         final String username = "root";
         final String password = "1234";
 
