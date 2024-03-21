@@ -1,0 +1,10 @@
+메모장을 관리자 모드로 실행한다.
+tbl_seoul_bus_onoff.csv 파일을 열기->다른이름으로 저장, 파일포맷=BOM 형식으로 저장합니다.
+인텔리제이 얼티메이트 버전 실행합니다.
+Database(원통 아이콘)에서
+yscom 데이터베이스 접속합니다.
+물개 콘솔에서 DELETE FROM tbl_seoul_bus_onoff; 실행 >  select * from tbl_seoul_bus_onoff; 실행합니다.
+yscom->tables->tbl_seoul_bus_onoff에서 우클릭합니다.
+Import/Export -> Import Data From Files....->tbl_seoul_bus_onoff; 실행합니다
+yscom 물개 콘솔 창에서 select * from tbl_seoul_bus_onoff; 실행합니다.
+테이블에 한글이 온전히 보이면 끝.
