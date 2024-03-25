@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d0b9bf1-8f50-444f-ba56-0f1b102da037" name="Changes" comment="recent">
-      <change afterPath="$PROJECT_DIR$/src/seoulbus/데이터베이스 한글 변환" afterDir="false" />
+    <list default="true" id="8d0b9bf1-8f50-444f-ba56-0f1b102da037" name="Changes" comment="recent 2">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_csv_1_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_8_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seoulbus/CsvFileSaveToDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seoulbus/CsvFileSaveToDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-sql.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-sql.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seoulbus/BusStop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seoulbus/BusStop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,25 +29,45 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kwonsunhyeon&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="efdd1822-ad23-4163-92cb-97e6aae88e02" />
+        <option name="url" value="https://github.com/kwonsunhyeon/-.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2dwHgOtXW0WYPGvBDrwhZF2gBc4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AddressPatcher.executor": "Run",
+    "Application.AddressPather.executor": "Run",
     "Application.CsvFileSaveToDB.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "1.8",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/java-sql/2021_seoul_bus_onoff..csv",
+    "last_opened_file_path": "C:/Users/user/Desktop/json-20210307.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -61,7 +86,19 @@
     ]
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="seoulbus" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AddressPatcher">
+    <configuration name="AddressPatcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AddressPatcher" />
+      <module name="java-sql" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CsvFileSaveToDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seoulbus.CsvFileSaveToDB" />
       <module name="java-sql" />
@@ -77,6 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddressPatcher" />
         <item itemvalue="Application.CsvFileSaveToDB" />
       </list>
     </recent_temporary>
@@ -99,7 +137,11 @@
       <option name="presentableId" value="Default" />
       <updated>1710912334050</updated>
       <workItem from="1710912335085" duration="12036000" />
-      <workItem from="1710981453135" duration="2333000" />
+      <workItem from="1710981453135" duration="21517000" />
+      <workItem from="1711067579660" duration="7871000" />
+      <workItem from="1711075474276" duration="17447000" />
+      <workItem from="1711327028602" duration="9436000" />
+      <workItem from="1711339770381" duration="6459000" />
     </task>
     <task id="LOCAL-00001" summary="d">
       <option name="closed" value="true" />
@@ -133,7 +175,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710924576343</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="recent 1">
+      <option name="closed" value="true" />
+      <created>1710987090068</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710987090068</updated>
+    </task>
+    <task id="LOCAL-00006" summary="recent 2">
+      <option name="closed" value="true" />
+      <created>1711344507357</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711344507357</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +202,9 @@
     <MESSAGE value="2" />
     <MESSAGE value="3" />
     <MESSAGE value="recent" />
-    <option name="LAST_COMMIT_MESSAGE" value="recent" />
+    <MESSAGE value="recent 1" />
+    <MESSAGE value="recent 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="recent 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
